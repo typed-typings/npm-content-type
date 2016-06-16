@@ -1,0 +1,9 @@
+{
+  "name": "content-type",
+  "homepage": "https://github.com/jshttp/content-type",
+  "main": "index.d.ts",
+  "version": "^1.0.0",
+  "globalDevDependencies": {
+    "node": "registry:env/node#6.0.0+20160610031852"
+  }
+}
